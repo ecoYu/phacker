@@ -1,5 +1,8 @@
 # PHACKER : 一个超无趣、超庸俗但挺有用的STATA命令😘
 
+<br>
+
+
 <a href="http://github.com/haghish/github"><img src="https://cdn-us.imgs.moe/2023/06/12/6486999a9adb9.png" width="185px" height="188px"  align="left" hspace="10" vspace="6"></a>
 
  `phacker` 是一个Stata命令，它能够帮助你在堆积如山的变量中，筛选出回归后所有系数显著的所有变量组合。例如，你有一个因变量  `y` ，但有20个待筛选变量  `prevars`  ，本命令的使命就是在这20个待筛选变量的无数组合中，筛选出所有变量系数均显著且按R2高低排序的变量组合。此外，它允许你在待筛选变量外添加每次均参与回归的保留变量  `keepvar` ，保留变量也需要满足系数全显著的条件。**如果你的老板/上司/导师对P值有着狂热、诡异而痴迷的追求🤣🤣，不妨试试  `phacker` ！** 具体使用说明，可在安装命令后查询：
@@ -12,7 +15,7 @@
 
 <br>
 
-<img src="https://cdn-us.imgs.moe/2023/06/12/648691657cc41.jpg" width="50px" height="160px"  align="left" hspace="10" vspace="6"> 本页面更新于 **2023/06/12** ，如果你有任何问题想与我交流👉 **yu.xiaokun@outlook.com**
+<img src="https://cdn-us.imgs.moe/2023/06/12/648691657cc41.jpg" width="50px" height="160px"  align="left" hspace="10" vspace="6"> 本页面更新于 **2023/06/12** ，欢迎交流👉 **yu.xiaokun@outlook.com**
 
 <br>
 <br>
