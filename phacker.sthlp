@@ -1,8 +1,5 @@
 {smcl}
-{* 11 June 2023}{...}
-{hline}
-help for {hi:phacker}
-{hline}
+{it:v. 1.0}
 
 
 {title:Title}
