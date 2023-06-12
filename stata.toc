@@ -1,0 +1,3 @@
+v 1.0
+d Author: Bryce YU
+p 'phacker': Helps you to quickly screen for control variables that keep all variables at a certain level of significance in regression (Alpha edition).
