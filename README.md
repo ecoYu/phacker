@@ -15,7 +15,7 @@
 
 <br>
 
-<img src="https://cdn-us.imgs.moe/2023/06/12/648691657cc41.jpg" width="40px" height="160px"  align="left" hspace="10" vspace="6"> 本页更新于 **2023/06/12** ，欢迎交流👉 **yu.xiaokun@outlook.com**
+<img src="https://cdn-us.imgs.moe/2023/06/12/648691657cc41.jpg" width="25px" height="160px"  align="left" hspace="10" vspace="6"> 本页更新于 **2023/06/12** ，欢迎交流👉 **yu.xiaokun@outlook.com**
 
 <br>
 <br>
