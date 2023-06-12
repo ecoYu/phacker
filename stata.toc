@@ -1,9 +1,0 @@
-v 1.0
-d Materials by Bryce YU
-d RUC
-d yu.xiaokun@outlook.com
-d https://github.com/ecoYu/phacker/blob/main
-
-d 'phacker': Helps you to quickly screen for control variables that keep all variables at a certain level of significance in regression.
-
-p phacker
