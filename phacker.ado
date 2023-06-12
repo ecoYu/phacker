@@ -900,3 +900,5 @@ program phacker, rclass
 		dis _newline(1) "     请查收你的结果，祝您计量愉快(^u^)"
 
 end
+
+
