@@ -1,0 +1,9 @@
+v 1.0
+d Materials by Bryce YU
+d 
+d yu.xiaokun@outlook.com
+d https://github.com/ecoYu/phacker
+
+d 'phacker': Helps you to quickly screen for control variables that keep all variables at a certain level of significance in regression.
+
+p phacker
