@@ -1,0 +1,12 @@
+v 1.0
+d 'PHACKER': Helps you to quickly screen for control variables that keep all variables at a certain level of significance in regression.
+d
+d Author: Bryce YU
+d
+d Requires: Stata version 14.0
+d
+d Distribution-Date: 20230611
+d License: MIT
+d
+f phacker.ado
+f phacker.sthlp
