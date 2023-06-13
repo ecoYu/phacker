@@ -24,7 +24,7 @@
 {synoptline}
 {synopt:{opt varlist(#)}}specifies the dependent variable(y) and the variables(prevars) that you want to screen for
 {p_end}
-{synopt:{opt m:ethod(#)}}specifies the estimator you want to use,usually in {hi:reg}
+{synopt:{opt m:ethod(#)}}specifies the estimator you want to use, usually in {hi:reg}
 {p_end}
 {synopt:{opt sig:ma(#)}}specifies the level of significance, 0.05 is a commonly used value
 {p_end}
@@ -34,11 +34,11 @@
 {p_end}
 {synopt:{opt h:ead(#)}}displays list header every # lines, the default value is 10. If you want to get all outcomes, please add {hi:head(all)} or {hi:h(all)}
 {p_end}
-{synopt:{opt save}}saves the final result list as a dta file by adding {hi:save}. And by typing "pwd" on the stata, you can see where the file is saved.
+{synopt:{opt save}}saves the final result list as a dta file by adding {hi:save}. And by typing "pwd" on the stata, you can see where the file is saved
 {p_end}
 {synopt:{opt keep:var(#)}}specifies those variables that remains involved in regression all the time
 {p_end}
-{synopt:{opt fe:ffect(#)}}specifies those variables to which you want to add a fixed effect in regression, and it's not recommended to add more than 3 variables.
+{synopt:{opt fe:ffect(#)}}specifies those variables to which you want to add a fixed effect in regression, and it's not recommended to add more than 3 variables
 {p_end}
 {synopt:{opt obs:ervation(#)}}sets obs observations, the default value is number of samples + 10000. Sometimes larger value may be required
 {p_end}
