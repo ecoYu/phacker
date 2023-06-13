@@ -38,7 +38,7 @@
 {p_end}
 {synopt:{opt keep:var(#)}}specifies those variables that remains involved in regression all the time
 {p_end}
-{synopt:{opt fe:ffect(#)}}specifies those variables to which you want to add a fixed effect in regression
+{synopt:{opt fe:ffect(#)}}specifies those variables to which you want to add a fixed effect in regression, and it's not recommended to add more than 3 variables.
 {p_end}
 {synopt:{opt obs:ervation(#)}}sets obs observations, the default value is number of samples + 10000. Sometimes larger value may be required
 {p_end}
